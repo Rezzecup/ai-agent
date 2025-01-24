@@ -450,7 +450,7 @@ MELA is an experimental AI agent. While she strives for autonomy and consciousne
 ## Support & Community
 
 - GitHub Issues: [Report bugs](https://github.com/topsecretagent007/ai-agent/issues)
-- Telegram: https://t.me/@topsecretagent_007
+- Telegram: https://t.me/topsecretagent_007
 
 ## License
 
